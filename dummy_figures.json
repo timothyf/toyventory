@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Batman Variant 1",
+    "series": "Spawn",
+    "year": 1999,
+    "manufacturer": "Kenner",
+    "purchase_price": 48.96,
+    "notes": "Imported dummy figure #1",
+    "photo_uri": ""
+  },
+  {
+    "name": "Iron Man Variant 2",
+    "series": "GI Joe",
+    "year": 1998,
+    "manufacturer": "Kenner",
+    "purchase_price": 30.23,
+    "notes": "Imported dummy figure #2",
+    "photo_uri": ""
+  },
+  {
+    "name": "Luke Skywalker Variant 1",
+    "series": "Spawn",
+    "year": 2014,
+    "manufacturer": "Hasbro",
+    "purchase_price": 23.01,
+    "notes": "Imported dummy figure #3",
+    "photo_uri": ""
+  },
+  {
+    "name": "Snake Eyes Variant 4",
+    "series": "Marvel Legends",
+    "year": 2008,
+    "manufacturer": "Hasbro",
+    "purchase_price": 23.27,
+    "notes": "Imported dummy figure #4",
+    "photo_uri": ""
+  },
+  {
+    "name": "Luke Skywalker Variant 3",
+    "series": "DC Multiverse",
+    "year": 2000,
+    "manufacturer": "NECA",
+    "purchase_price": 27.58,
+    "notes": "Imported dummy figure #5",
+    "photo_uri": ""
+  },
+  {
+    "name": "Spawn Variant 5",
+    "series": "GI Joe",
+    "year": 2000,
+    "manufacturer": "Hasbro",
+    "purchase_price": 17.72,
+    "notes": "Imported dummy figure #6",
+    "photo_uri": ""
+  },
+  {
+    "name": "Batman Variant 3",
+    "series": "Marvel Legends",
+    "year": 2019,
+    "manufacturer": "Mattel",
+    "purchase_price": 26.84,
+    "notes": "Imported dummy figure #7",
+    "photo_uri": ""
+  },
+  {
+    "name": "Storm Shadow Variant 5",
+    "series": "Marvel Legends",
+    "year": 1995,
+    "manufacturer": "Mattel",
+    "purchase_price": 28.87,
+    "notes": "Imported dummy figure #8",
+    "photo_uri": ""
+  },
+  {
+    "name": "Iron Man Variant 1",
+    "series": "GI Joe",
+    "year": 1991,
+    "manufacturer": "Mattel",
+    "purchase_price": 30.62,
+    "notes": "Imported dummy figure #9",
+    "photo_uri": ""
+  },
+  {
+    "name": "Snake Eyes Variant 2",
+    "series": "Spawn",
+    "year": 2023,
+    "manufacturer": "NECA",
+    "purchase_price": 42.12,
+    "notes": "Imported dummy figure #10",
+    "photo_uri": ""
+  },
+  {
+    "name": "Darth Vader Variant 4",
+    "series": "Star Wars",
+    "year": 1989,
+    "manufacturer": "NECA",
+    "purchase_price": 43.67,
+    "notes": "Imported dummy figure #11",
+    "photo_uri": ""
+  },
+  {
+    "name": "Darth Vader Variant 3",
+    "series": "DC Multiverse",
+    "year": 1985,
+    "manufacturer": "Mattel",
+    "purchase_price": 26.78,
+    "notes": "Imported dummy figure #12",
+    "photo_uri": ""
+  },
+  {
+    "name": "Wolverine Variant 1",
+    "series": "DC Multiverse",
+    "year": 2009,
+    "manufacturer": "Hasbro",
+    "purchase_price": 14.58,
+    "notes": "Imported dummy figure #13",
+    "photo_uri": ""
+  },
+  {
+    "name": "Luke Skywalker Variant 4",
+    "series": "Spawn",
+    "year": 2006,
+    "manufacturer": "Mattel",
+    "purchase_price": 48.45,
+    "notes": "Imported dummy figure #14",
+    "photo_uri": ""
+  },
+  {
+    "name": "Wolverine Variant 3",
+    "series": "Spawn",
+    "year": 2022,
+    "manufacturer": "Hasbro",
+    "purchase_price": 8.33,
+    "notes": "Imported dummy figure #15",
+    "photo_uri": ""
+  },
+  {
+    "name": "Batman Variant 4",
+    "series": "Marvel Legends",
+    "year": 1998,
+    "manufacturer": "NECA",
+    "purchase_price": 32.01,
+    "notes": "Imported dummy figure #16",
+    "photo_uri": ""
+  },
+  {
+    "name": "Snake Eyes Variant 2",
+    "series": "Marvel Legends",
+    "year": 2021,
+    "manufacturer": "NECA",
+    "purchase_price": 48.72,
+    "notes": "Imported dummy figure #17",
+    "photo_uri": ""
+  },
+  {
+    "name": "Wolverine Variant 1",
+    "series": "Star Wars",
+    "year": 2020,
+    "manufacturer": "McFarlane Toys",
+    "purchase_price": 34.64,
+    "notes": "Imported dummy figure #18",
+    "photo_uri": ""
+  },
+  {
+    "name": "Boba Fett Variant 3",
+    "series": "DC Multiverse",
+    "year": 1984,
+    "manufacturer": "Kenner",
+    "purchase_price": 27.4,
+    "notes": "Imported dummy figure #19",
+    "photo_uri": ""
+  },
+  {
+    "name": "Storm Shadow Variant 1",
+    "series": "Spawn",
+    "year": 2023,
+    "manufacturer": "Mattel",
+    "purchase_price": 8.72,
+    "notes": "Imported dummy figure #20",
+    "photo_uri": ""
+  }
+]

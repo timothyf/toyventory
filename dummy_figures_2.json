@@ -1,0 +1,57 @@
+[
+    {
+      "name": "He-Man Origins",
+      "series": "Masters of the Universe",
+      "year": 2020,
+      "manufacturer": "Mattel",
+      "purchase_price": 14.99,
+      "notes": "Classic reboot of the 1980s He-Man figure.",
+      "photo_uri": "https://placecats.com/800/800",
+      "description": "Highly articulated and faithfully styled recreation of the original He-Man toy.",
+      "theme": "Fantasy",
+      "country": "USA",
+      "size": "5.5 inch",
+      "release_date": "2020-09-15",
+      "asst_number": "GNN85",
+      "model_number": "FLC59",
+      "packaging": "Cardback blister",
+      "quantity": 1
+    },
+    {
+      "name": "Spider-Man (Retro)",
+      "series": "Marvel Legends",
+      "year": 2021,
+      "manufacturer": "Hasbro",
+      "purchase_price": 19.99,
+      "notes": "Features vintage card art and web accessories.",
+      "photo_uri": "https://placecats.com/800/800",
+      "description": "Spider-Man in his classic red-and-blue suit with retro Kenner-style packaging.",
+      "theme": "Superhero",
+      "country": "China",
+      "size": "6 inch",
+      "release_date": "2021-02-10",
+      "asst_number": "F1234",
+      "model_number": "ML-2021-SP",
+      "packaging": "Retro cardback",
+      "quantity": 2
+    },
+    {
+      "name": "Arrow (Season 3)",
+      "series": "DC Collectibles TV",
+      "year": 2015,
+      "manufacturer": "DC Collectibles",
+      "purchase_price": 24.99,
+      "notes": "Includes bow, arrows, and alternate hands.",
+      "photo_uri": "https://placecats.com/800/800",
+      "description": "Detailed 6.75\" figure of Oliver Queen from CW's Arrow Season 3.",
+      "theme": "TV Show",
+      "country": "China",
+      "size": "6.75 inch",
+      "release_date": "2015-05-05",
+      "asst_number": "DC335827",
+      "model_number": "ARROW-S3",
+      "packaging": "Window box",
+      "quantity": 1
+    }
+  ]
+  
