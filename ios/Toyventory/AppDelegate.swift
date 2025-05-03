@@ -24,7 +24,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     window = UIWindow(frame: UIScreen.main.bounds)
 
     factory.startReactNative(
-      withModuleName: "Toyventory",
+      withModuleName: "toyventory",
       in: window,
       launchOptions: launchOptions
     )
