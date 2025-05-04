@@ -112,7 +112,7 @@ export default function CollectionListScreen() {
 
     return (
       <TouchableOpacity
-        onPress={() => navigation.navigate('AddEdit', { id: item.id })}
+        onPress={() => navigation.navigate('FigureDetails', { id: item.id })}
         onLongPress={() => confirmDelete(item.id)}
       >
         <View style={styles.item}>

@@ -7,7 +7,7 @@ import Ionicons from 'react-native-vector-icons/Ionicons';
 
 import CollectionListScreen from '../screens/CollectionListScreen';
 import AddEditFigureScreen from '../screens/AddEditFigureScreen';
-import FigureDetailScreen from '../screens/FigureDetailScreen';
+import FigureDetailsScreen from '../screens/FigureDetailsScreen';
 import PriceLookupScreen from '../screens/PriceLookupScreen';
 import StatsScreen from '../screens/StatsScreen';
 import SettingsScreen from '../screens/SettingsScreen';
@@ -81,7 +81,7 @@ export default function AppNavigator() {
           options={{ headerShown: false }}
         />
         <Stack.Screen name="AddEdit" component={AddEditFigureScreen} />
-        <Stack.Screen name="Detail" component={FigureDetailScreen} />
+        <Stack.Screen name="FigureDetails" component={FigureDetailsScreen} />
         <Stack.Screen name="Settings" component={SettingsScreen} />
         <Stack.Screen
           name="BarcodeScanner"
